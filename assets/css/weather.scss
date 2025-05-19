@@ -230,6 +230,10 @@
   @media (max-width: 768px) {
     padding: 1rem;
 
+    .weather-content {
+      display: inherit;
+    }
+
     .weather-header h1 {
       font-size: 2rem;
     }
@@ -258,6 +262,10 @@
   }
 
   @media (max-width: 480px) {
+    .weather-content {
+      display: inherit;
+    }
+
     .weather-details-card {
       grid-template-columns: repeat(2, 1fr);
       padding: 0.5rem;
