@@ -20,6 +20,7 @@
   },
   "devDependencies": {
     "@nuxt/eslint-config": "^1.4.0",
+    "@nuxtjs/vercel-builder": "^0.25.0",
     "eslint": "^9.27.0",
     "eslint-config-prettier": "^10.1.5",
     "eslint-plugin-prettier": "^5.4.0",
